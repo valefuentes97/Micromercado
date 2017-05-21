@@ -1,0 +1,13 @@
+c:\users\toshiba\documents\visual studio 2017\Projects\MenuVendedor\MenuVendedor\bin\Debug\MenuVendedor.exe.config
+c:\users\toshiba\documents\visual studio 2017\Projects\MenuVendedor\MenuVendedor\bin\Debug\MenuVendedor.exe
+c:\users\toshiba\documents\visual studio 2017\Projects\MenuVendedor\MenuVendedor\bin\Debug\MenuVendedor.pdb
+c:\users\toshiba\documents\visual studio 2017\Projects\MenuVendedor\MenuVendedor\obj\Debug\MenuVendedor.csprojResolveAssemblyReference.cache
+c:\users\toshiba\documents\visual studio 2017\Projects\MenuVendedor\MenuVendedor\obj\Debug\MenuVendedor.Form1.resources
+c:\users\toshiba\documents\visual studio 2017\Projects\MenuVendedor\MenuVendedor\obj\Debug\MenuVendedor.Properties.Resources.resources
+c:\users\toshiba\documents\visual studio 2017\Projects\MenuVendedor\MenuVendedor\obj\Debug\MenuVendedor.csproj.GenerateResource.Cache
+c:\users\toshiba\documents\visual studio 2017\Projects\MenuVendedor\MenuVendedor\obj\Debug\MenuVendedor.exe
+c:\users\toshiba\documents\visual studio 2017\Projects\MenuVendedor\MenuVendedor\obj\Debug\MenuVendedor.pdb
+c:\users\toshiba\documents\visual studio 2017\Projects\MenuVendedor\MenuVendedor\obj\Debug\MenuVendedor.Venta.resources
+C:\Users\TOSHIBA\documents\visual studio 2017\Projects\MenuVendedor\MenuVendedor\obj\Debug\MenuVendedor.Productos.resources
+C:\Users\TOSHIBA\documents\visual studio 2017\Projects\MenuVendedor\MenuVendedor\bin\Debug\MicromercadoDB.mdf
+C:\Users\TOSHIBA\documents\visual studio 2017\Projects\MenuVendedor\MenuVendedor\bin\Debug\MicromercadoDB_log.ldf
